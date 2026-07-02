@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="34%" r="72%"><stop stop-color="#fff4d7"/><stop offset=".55" stop-color="#eee0ca"/><stop offset="1" stop-color="#c9b08c"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="30" stdDeviation="24" flood-color="#3e341d" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="425" y="334" width="50" height="398" rx="25" fill="#b5a642"/>
+    <rect x="364" y="710" width="172" height="72" rx="36" fill="#927d2d"/>
+    <path d="M450 220 C404 280 421 330 450 362 C486 324 495 274 450 220 Z" fill="#f0a83a"/>
+    <path d="M450 252 C430 286 438 315 450 336 C468 310 470 286 450 252 Z" fill="#fff0b4"/>
+    <ellipse cx="450" cy="822" rx="226" ry="42" fill="#332817" opacity=".15"/>
+  </g>
+</svg>
